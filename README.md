@@ -151,3 +151,17 @@ Vous devriez voir au moins trois conteneurs en cours d'exécution :
    docker-compose down
    ```
 Cela arrête et supprime tous les conteneurs liés au projet.
+
+## 📤 Méthode de rendu  
+
+Une fois le projet terminé :  
+
+1️⃣ **Hébergez votre code sur GitHub** en gardant un historique Git **propre et structuré**.  
+
+2️⃣ **Assurez-vous que votre README est clair**, avec les instructions d’installation et d’utilisation.  
+
+3️⃣ **Fournissez-nous l’accès à votre dépôt** en partageant le lien.  
+
+4️⃣ **Ajoutez éventuellement une courte documentation** (Postman, Swagger, ou notes techniques).  
+
+> 📌 **Bonus** : Si vous hébergez votre application sur une plateforme comme **Vercel, Netlify, ou Render**, ajoutez le lien déployé !  
